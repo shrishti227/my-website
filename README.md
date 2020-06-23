@@ -2,6 +2,4 @@
 
 ## This is very cool website
 
-## Github update before rebase
-
-final edit
+## Details before starting with the project website
